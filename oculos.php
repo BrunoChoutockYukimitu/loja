@@ -1,7 +1,7 @@
 <?php
-include "cabecalho.php";
-include "banner.php";
-include "categorias.php"
+include "includes/cabecalho.php";
+include "includes/banner.php";
+include "includes/categorias.php"
 ?>
     <div class="categorias">
         <h2 class="titulo">ÓCULOS</h2>
