@@ -1,4 +1,8 @@
-
+<?php
+include "cabecalho.php";
+include "banner.php";
+include "categorias.php"
+?>
     <div class="categorias">
         <h2 class="titulo">CASACOS</h2>
     </div>
@@ -52,3 +56,9 @@
         </div>
     </div>
 
+    <?PHP
+include "includes/facilidades.php";
+include "includes/newsletter.php";
+include "includes/rodape.php"
+?>
+ 
