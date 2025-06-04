@@ -1,7 +1,6 @@
 <?php
 include "includes/cabecalho.php";
 include "includes/banner.php";
-include "includes/categorias.php"
 ?>
   <div class="categorias">
         <h2 class="titulo">CAMISETAS</h2>
@@ -15,21 +14,21 @@ include "includes/categorias.php"
                 <h3 class="titulo-produto">Camiseta Conforto</h3>
                 <p class="descricao-produto">Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.</p>
                 <h3 class="preco-produto">R$ 70,00</h3>
-                <a href="#" class="botao-produto">Ver mais</a>
+                <a href="Produto.php" class="botao-produto">Ver mais</a>
             </div>
             <div class="item-produto">
                 <img src="images/camiseta.png" class="foto-produto">
                 <h3 class="titulo-produto">Camiseta Conforto</h3>
                 <p class="descricao-produto">Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.</p>
                 <h3 class="preco-produto">R$ 70,00</h3>
-                <a href="#" class="botao-produto">Ver mais</a>
+                <a href="Produto.php" class="botao-produto">Ver mais</a>
             </div>
             <div class="item-produto">
                 <img src="images/camiseta.png" class="foto-produto">
                 <h3 class="titulo-produto">Camiseta Conforto</h3>
                 <p class="descricao-produto">Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.</p>
                 <h3 class="preco-produto">R$ 70,00</h3>
-                <a href="#" class="botao-produto">Ver mais</a>
+                <a href="Produto.php" class="botao-produto">Ver mais</a>
             </div>
             <div class="item-produto">
                 <img src="images/camiseta.png" class="foto-produto">
